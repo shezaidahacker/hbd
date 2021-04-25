@@ -357,15 +357,3 @@ def pb():
 	os.system('python2 B4.py')
 if __name__=='__main__':
     login()
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
